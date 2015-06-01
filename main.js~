@@ -1,0 +1,2 @@
+/* Test node works... */
+console.log("hello world");
